@@ -10,14 +10,7 @@
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
---
--- Database: `Mock_test_db`
---
 
--- --------------------------------------------------------
-
---
--- Table structure for table `mock_test_tbl`
 --
 
 CREATE TABLE `mock_test_tbl` (
